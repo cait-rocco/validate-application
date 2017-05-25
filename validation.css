@@ -1,0 +1,15 @@
+#email:valid {
+	background-color: green;
+}
+
+#linkedIn:valid {
+	background-color: green;
+}
+
+#email:invalid {
+	background-color: red;
+}
+
+#linkedIn:invalid {
+	background-color: red;
+}
